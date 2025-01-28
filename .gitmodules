@@ -1,0 +1,6 @@
+[submodule "AI-Query-Generator"]
+	path = AI-Query-Generator
+	url = https://github.com/rahul2908/AI-Query-Generator.git
+[submodule "AI-Query-Generator-UI"]
+	path = AI-Query-Generator-UI
+	url = https://github.com/rahul2908/AI-Query-Generator-UI.git
